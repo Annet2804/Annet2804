@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anna Zakharova</h1>
-<h3 align="center">👋 Hi! I'm Anna Zakharova, a Full-Stack developer who creates modern, fast, and user-friendly web applications. I have expertise in HTML, CSS, work with React on the frontend, and Node.js on the backend. I use MySQL for database management. I love writing clean and readable code, building intuitive interfaces, and optimizing application performance. 🚀 Join my projects or reach out – I'm always open to collaboration!</h3>
+<h1 align="center">👋Hi, I'm Anna Zakharova</h1>
+<h3 align="center">Hi! I'm Anna Zakharova, a Full-Stack developer who creates modern, fast, and user-friendly web applications. I have expertise in HTML, CSS, work with React on the frontend, and Node.js on the backend. I use MySQL for database management. I love writing clean and readable code, building intuitive interfaces, and optimizing application performance.😉 Join my projects or reach out – I'm always open to collaboration! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
 
