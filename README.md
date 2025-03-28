@@ -9,7 +9,7 @@ Feel free to join my projects or reach out – I'm always open to collaboration!
 💻 Frontend: HTML, CSS, React <br>
 🔧 Backend: Node.js <br>
 🗄️ Database: MySQL </h3>
-
+ <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" /></a> </p>
