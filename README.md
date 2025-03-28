@@ -1,10 +1,10 @@
 <h1 align="center">👋Hi, I'm Anna Zakharova</h1>
-<h3 align="center">🌍 Суми | Україна
+<h3 align="center">🌍 Sumy | Ukraine
 </h3>
 
 <h3 align="left">
-💻 Frontend: HTML, CSS, React
-🔧 Backend: Node.js
+💻 Frontend: HTML, CSS, React <br>
+🔧 Backend: Node.js <br>
 🗄️ Database: MySQL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
