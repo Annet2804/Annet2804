@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="left">
-🌝 Hi! I'm Anna, and I'm a beginner in frontend development. Right now, I'm taking courses where I'm learning how to create user-friendly and responsive websites. I enjoy designing beautiful layouts in Figma and Photoshop. I'm passionate about learning, growing my skills, and bringing ideas to life with HTML and CSS. I want to grow as a developer and connect with others in the tech field. I'm always open to new connections and collaborative projects!
+🌝 Hi! I'm Anna, a beginner in frontend development. I'm currently taking courses to learn how to build responsive websites and apply my design skills with Figma and Photoshop. I'm passionate about growing my skills and bringing ideas to life with HTML and CSS. Always open to new connections and projects!
  <br>
 💻 Frontend: HTML, CSS
  <br>
@@ -12,6 +12,8 @@
  <br>
 🌱 Currently learning: Frontend fundamentals
  <br>
+</h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" /></a> </p>
