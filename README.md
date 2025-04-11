@@ -6,7 +6,10 @@
 🌝 Hi! I'm Anna, and I'm a beginner in frontend development. Right now, I'm taking courses where I'm learning how to create user-friendly and responsive websites. I enjoy designing beautiful layouts in Figma and Photoshop. I'm passionate about learning, growing my skills, and bringing ideas to life with HTML and CSS. I want to grow as a developer and connect with others in the tech field. I'm always open to new connections and collaborative projects!
  <br>
 💻 Frontend: HTML, CSS
+ <br>
+ 
 🎨 Design & Tools: Figma, Adobe Photoshop
+ <br>
 🌱 Currently learning: Frontend fundamentals
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
