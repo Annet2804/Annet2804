@@ -16,11 +16,9 @@
   🌱 Currently learning: Frontend fundamentals
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
-
-<p align="left" style="background-color: black;">
+<p align="left" style="background-color: black; padding: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" />
+    <img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" style="border-radius: 10px;"/>
   </a>
 </p>
 
