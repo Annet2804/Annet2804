@@ -47,10 +47,14 @@
 <a href="https://t.me/annet_2804" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="50" width="60" />
 </a>
-
 </p>
 
-
+ ---
+ ### 🧡 A Few Words About Me
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1200&color=FFA500&center=true&vCenter=true&width=1000&lines=FRONTEND+DEVELOPER+%F0%9F%92%BB;FOCUSED+ON+USER+EXPERIENCE+%F0%9F%93%8A;ATTENTION+TO+DETAILS+%F0%9F%92%8C;WRITING+CLEAR+AND+STRUCTURED+CODE+%F0%9F%93%9D%EF%B8%8F;INSPIRED+BY+MODERN+DESIGN+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
  ---
 ### 🎖️ My GitHub Trophies
