@@ -2,17 +2,19 @@
 <h3 align="center">🌍 Sumy | Ukraine
 </h3>
 
-<h3 align="left">
-🌝 Hi! I'm Anna, a beginner in frontend development. I'm currently taking courses to learn how to build responsive websites and apply my design skills with Figma and Photoshop. I'm passionate about growing my skills and bringing ideas to life with HTML and CSS. Always open to new connections and projects!
- <br>
-💻 Frontend: HTML, CSS
- <br>
- 
-🎨 Design & Tools: Figma, Adobe Photoshop
- <br>
-🌱 Currently learning: Frontend fundamentals
- <br>
-</h3>
+<p align="left">
+  🌝 Hi! I'm Anna, a beginner in frontend development. I'm currently taking courses to learn how to build responsive websites and apply my design skills with Figma and Photoshop. I'm passionate about growing my skills and bringing ideas to life with HTML and CSS. Always open to new connections and projects!
+</p>
+
+<p align="left">
+  💻 Frontend: HTML, CSS
+</p>
+<p align="left">
+  🎨 Design & Tools: Figma, Adobe Photoshop
+</p>
+<p align="left">
+  🌱 Currently learning: Frontend fundamentals
+</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=0e75b6&style=flat" alt="annet2804" /> </p>
 
