@@ -15,8 +15,12 @@
 <h3 align="left">
   🌱 Currently learning: Frontend fundamentals
 </h3>
-<br>
 
+
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=annet2804&label=Profile%20views&color=orange&style=flat" alt="annet2804" />
+</p>
 
 
  ---
