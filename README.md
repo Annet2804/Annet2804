@@ -43,9 +43,7 @@
 
 <p align="center">
 <a href="https://instagram.com/annet_2804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annet_2804" height="50" width="60" /></a>
-<a href="https://www.behance.net/annet2804" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="50" width="60" />
-</a>
+<a href="https://www.behance.net/14fd6204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anna zakharova" height="50" width="60" /></a>
 <a href="https://t.me/annet_2804" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="50" width="60" />
 </a>
