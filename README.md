@@ -16,9 +16,9 @@
   🌱 Currently learning: Frontend fundamentals
 </p>
  
-<p align="left" style="background-color: black; padding: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<p align="left" bgcolor="black">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" style="border-radius: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=annet2804" alt="annet2804" />
   </a>
 </p>
 
