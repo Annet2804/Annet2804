@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/3o6Zt5z4uTKpRygrWS/giphy.gif" alt="Waving Hand" width="50" height="50"> Hi, I'm Anna Zakharova</h1>
+<h1 align="center"><img src="[https://media.giphy.com/media/3o6Zt5z4uTKpRygrWS/giphy.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" alt="Waving Hand" width="50" height="50"> Hi, I'm Anna Zakharova</h1>
 <h3 align="center">🌍 Sumy | Ukraine
 </h3>
 
