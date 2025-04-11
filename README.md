@@ -2,19 +2,19 @@
 <h3 align="center">🌍 Sumy | Ukraine
 </h3>
 
-<p align="left">
+<h3 align="left">
   🌝 Hi! I'm Anna, a beginner in frontend development. I'm currently taking courses to learn how to build responsive websites and apply my design skills with Figma and Photoshop. I'm passionate about growing my skills and bringing ideas to life with HTML and CSS. Always open to new connections and projects!
-</p>
+</h3>
 
-<p align="left">
+<h3 align="left">
   💻 Frontend: HTML, CSS
-</p>
-<p align="left">
+</h3>
+<h3 align="left">
   🎨 Design & Tools: Figma, Adobe Photoshop
-</p>
-<p align="left">
+</h3>
+<h3 align="left">
   🌱 Currently learning: Frontend fundamentals
-</p>
+</h3>
  
 <p align="left" bgcolor="black">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
