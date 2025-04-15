@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.png" width="60" height="60" alt="Tailwind CSS"/>
+  <img src="./assets/icons/Tailwind_CSS_Logo.svg" width="60" height="60" alt="Tailwind CSS"/>
 </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
