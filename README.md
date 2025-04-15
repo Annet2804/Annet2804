@@ -52,8 +52,9 @@
 ### 🚀 Currently learning
 
 <p align="center">
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-  <img src="./assets/icons/Tailwind_CSS_Logo.svg" width="60" height="60" alt="Tailwind CSS"/>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
 </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -63,6 +64,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
   </a>
+
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+</a>
+
+
 </p>
 
  ---
