@@ -48,9 +48,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/>
   </a>
 
+   ---
+### 🚀 Currently learning
+
+<p align="center">
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.png" width="60" height="60" alt="Tailwind CSS"/>
+</a>
   
-
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+  </a>
+</p>
 
  ---
 ### 💬 Contact Me
